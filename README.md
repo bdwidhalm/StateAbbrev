@@ -1,6 +1,6 @@
 # StateAbbrev - State Abbreviation App
 
-### Description
+## Description
 Android application to provide postal abbreviation for different US states.  
 
 
